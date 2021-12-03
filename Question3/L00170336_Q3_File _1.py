@@ -1,10 +1,7 @@
 
-
 #
 # Student:	Anne O’Brien
-
 # File :   	L00170336_Q3_File_1
-
 # Description :  Question 3 – Connect to my Ubuntu VM using SSH port
 
 
