@@ -2,7 +2,6 @@
 #Student ID: L00170336
 #Question5_File_2
 
-
 #Curl already installed via SSH
 
 #This script is to create a directory structure labs with subfolders lab1 and lab2.
